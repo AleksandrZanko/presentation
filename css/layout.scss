@@ -1,0 +1,117 @@
+/**
+ * Layout helpers.
+ */
+
+// Stretch an element vertically based on available space
+.reveal .stretch,
+.reveal .r-stretch {
+	max-width: none;
+	max-height: none;
+}
+
+.reveal pre.stretch code,
+.reveal pre.r-stretch code {
+	height: 100%;
+	max-height: 100%;
+	box-sizing: border-box;
+}
+
+// Text that auto-fits it's container
+.reveal .r-fit-text {
+	display: inline-block; // https://github.com/rikschennink/fitty#performance
+	white-space: nowrap;
+}
+
+// Stack multiple elements on top of each other
+.reveal .r-stack {
+	display: grid;
+}
+
+.reveal .r-stack > * {
+	grid-area: 1/1;
+	margin: auto;
+}
+
+// Horizontal and vertical stacks
+.reveal .r-vstack,
+.reveal .r-hstack {
+	display: flex;
+
+	img, video {
+		min-width: 0;
+		min-height: 0;
+		object-fit: contain;
+	}
+}
+
+.reveal .r-vstack {
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.reveal .r-hstack {
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+// Naming based on tailwindcss
+.reveal .items-stretch { align-items: stretch; }
+.reveal .items-start { align-items: flex-start; }
+.reveal .items-center { align-items: center; }
+.reveal .items-end { align-items: flex-end; }
+
+.reveal .justify-between { justify-content: space-between; }
+.reveal .justify-around { justify-content: space-around; }
+.reveal .justify-start { justify-content: flex-start; }
+.reveal .justify-center { justify-content: center; }
+.reveal .justify-end { justify-content: flex-end; }
+
+
+
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	margin-top: 160px;
+	font-size: 20px;
+}
+
+.footer-link {
+	margin-left: 7px;
+	margin-right: 30px;
+	
+}
+
+.slide2-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.slide2-text {
+	width: 40%;
+	font-size: 17px;
+	text-align: left;
+}
+
+.slide3-text {
+	font-size: 17px;
+	text-align: center;
+}
+
+.slide-full-text {
+	font-size: 17px;
+}
+
+.slide10-full-text {
+	text-align: justify;
+}
+
+.list {
+	font-size: 16px;
+}

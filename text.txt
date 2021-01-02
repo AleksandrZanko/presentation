@@ -1,0 +1,90 @@
+History of WWW/HTML/CSS 
+
+Slide 1 
+
+Hello! I'm Aleksander. I am a student of the RS school. 
+
+Slide 2 
+
+The history of the Internet has its origin in the efforts to build and interconnect computer networks that arose from research and development in the United States and involved international collaboration, particularly with researchers in the United Kingdom and France. 
+
+Computer science was an emerging discipline in the late 1950s that began to consider time-sharing between computer users, and later, the possibility of achieving this over wide area networks. Independently, Paul Baran proposed a distributed network based on data in message blocks in the early 1960s and Donald Davies conceived of packet switching in 1965 at the National Physical Laboratory (NPL) in the UK and proposed building a national commercial data network. 
+
+Slide 3 
+
+On the evening of October 29, 1969 the first data travelled between two nodes of the ARPANET, a key ancestor of the Internet. Even more important, this was one of the first big trials of a then-radical idea: Networking computers to each other.  
+
+Slide 4 
+
+The Advanced Research Projects Agency (ARPA) of the U.S. Department of Defense awarded contracts in 1969 for the development of the ARPANET project, directed by Robert Taylor and managed by Lawrence Roberts. ARPANET adopted the packet switching technology proposed by Davies and Baran, underpinned by mathematical work in the early 1970s by Leonard Kleinrock at UCLA. The network was built by Bolt, Beranek, and Newman. 
+
+ 
+
+Slide 5 
+
+Briton Timothy John Berners-Lee at CERN in Geneva invented the hypertext markup language, aka HyperText Markup Language, aka HTML, designed to markup and format documents on the World Wide Web. 
+
+The first publicly available description of HTML was a document called "HTML Tags", first mentioned on the Internet by Tim Berners-Lee in late 1991. It describes 18 elements comprising the initial, relatively simple design of HTML.  
+
+Slide 6 
+
+Evolution of Html 
+
+Slide 7 
+
+1994. HTML 1.2 
+
+In this version, out of its forty with a penny of tags, as many as 3 tags have already appeared, which hinted at some kind of visual design of the document (for example, bold italic). The rest of the tags served solely for logical markup. 
+
+1994. Foundation of a W3C 
+
+The W3C mission is to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web. Below we discuss important aspects of this mission, all of which further W3C's vision of One Web. 
+
+Slide 8 
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript 
+
+Syntax 
+
+CSS has a simple syntax and uses a number of English keywords to specify the names of various style properties. 
+
+A style sheet consists of a list of rules. Each rule or rule-set consists of one or more selectors, and a declaration block. 
+
+Slide 9  
+
+In 1996, Netscape's share of the browser market reached 86% (with Internet Explorer edging up 10%); but then Microsoft began integrating its browser with its operating system and bundling deals with OEMs. Within 4 years of its release IE had 75% of the browser market and by 1999 it had 99% of the market.	 
+
+ 
+
+Slide 10 
+
+12 May, 1997 – CSS 2.0.	 
+
+A superset of CSS 1, CSS 2 includes a number of new capabilities like absolute, relative, and fixed positioning of elements and z-index, the concept of media types, support for aural style sheets (which were later replaced by the CSS 3 speech modules) and bidirectional text, and new font properties such as shadows. 
+ 
+
+18 DECEMBER 1997 – HTML 4.0 
+
+HTML 4.0 was published as a W3C Recommendation. It offers three variations. 
+
+ 
+
+Slide 11 
+
+LATEST GENERALLY ACCEPTED STANDARDS 
+
+On 28 October 2014, HTML5 was released as a stable W3C Recommendation, meaning the specification process is complete. 
+
+On 2011, CSS3 was released as a stable W3C Recommendation. 
+
+Slide 12 
+
+"SECOND BROWSER WAR (2004–2017)" 
+
+Browsers wars contunue. 
+
+By 2017 usage shares of Opera, Firefox and Internet Explorer fell well below 5% each, while Google Chrome had expanded to over 60% worldwide. In May 2017, Andreas Gal, former Mozilla CTO, publicly stated that Google Chrome won the Second Browser War. 
+
+Slide 13 
+
+Thanks for attention. 
